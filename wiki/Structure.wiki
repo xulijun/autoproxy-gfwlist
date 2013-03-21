@@ -18,9 +18,9 @@ Currently, it has such blocks below:
 
 =iTunes=
 
-=Num=
+=Num(URL initial is 0-9, same as below)=
 
-=A(URL initial is a, same below)=
+=A=
 =B=
 =C=
 * . *
