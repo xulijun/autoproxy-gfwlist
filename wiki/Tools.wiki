@@ -1,0 +1,4 @@
+#summary Tools used for detecting and analyzing URLs.
+
+  * https://support.dnspod.cn/Tools/tools/
+  * http://ping.chinaz.com
